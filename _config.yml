@@ -1,0 +1,28 @@
+name: BeBlaq
+favicon: null
+layout_spectrum: 0.40898322709836066
+typography_spectrum: 0.5774063032586128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8086140344385058
+  lightness: 0.8734077881090343
+  saturation: 0.8239533226005733
+  rhythmicContrast: 0.17391606117598712
+purpose: []
