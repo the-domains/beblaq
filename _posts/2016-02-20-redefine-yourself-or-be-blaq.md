@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T06:41:01.909Z'
-dateModified: '2016-02-20T06:41:01.154Z'
+datePublished: '2016-02-22T23:24:39.537Z'
+dateModified: '2016-02-22T23:18:39.938Z'
+title: 'Redefine yourself | Be Blaq'
+author: []
+sourcePath: _posts/2016-02-20-redefine-yourself-or-be-blaq.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'Redefine yourself | Be Blaq'
-author: []
-sourcePath: _posts/2016-02-20-redefine-yourself-or-be-blaq.md
-published: true
 url: redefine-yourself-or-be-blaq/index.html
 _type: Article
 
