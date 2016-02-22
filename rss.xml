@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Redefine yourself | BeBlaq]]></title>
         <description><![CDATA[Redefine yourself | BeBlaq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://beblaq.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 06:41:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 23:25:02 GMT</lastBuildDate>
+        <atom:link href="http://beblaq.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Redefine yourself | Be Blaq]]></title>
             <description><![CDATA[<h1>Redefine yourself | Be Blaq</h1>]]></description>
-            <link>undefinedredefine-yourself-or-be-blaq/index.html</link>
+            <link>http://beblaq.com/redefine-yourself-or-be-blaq/index.html</link>
             <guid isPermaLink="false">dbb1a589-a778-41f8-9814-26a93aee45bb</guid>
-            <pubDate>Sat, 20 Feb 2016 06:41:01 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 23:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
