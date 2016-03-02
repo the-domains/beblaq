@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T03:37:33.888Z'
-dateModified: '2016-03-02T03:37:05.092Z'
+datePublished: '2016-03-02T03:38:35.056Z'
+dateModified: '2016-03-02T03:37:39.557Z'
 title: "Redefine yourself\_"
 author: []
 sourcePath: _posts/2016-02-20-redefine-yourself-or-be-blaq.md
