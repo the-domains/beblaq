@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Redefine yourself | BeBlaq]]></title>
         <description><![CDATA[Redefine yourself | BeBlaq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://beblaq.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:34:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 03:37:57 GMT</lastBuildDate>
+        <atom:link href="http://beblaq.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Redefine yourself | Be Blaq]]></title>
-            <description><![CDATA[<article><h1>Redefine yourself | Be Blaq</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c265a381-07d6-44f9-b505-3894a6c349e2.jpg"></article>]]></description>
-            <link>undefinedredefine-yourself-or-be-blaq/index.html</link>
+            <title><![CDATA[Redefine yourself ]]></title>
+            <description><![CDATA[<article><h1>Redefine yourself </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb7df0c229892661af5430de9f6a60fd83e9ca08.jpg"></article>]]></description>
+            <link>http://beblaq.com/redefine-yourself-or-be-blaq/index.html</link>
             <guid isPermaLink="false">dbb1a589-a778-41f8-9814-26a93aee45bb</guid>
-            <pubDate>Wed, 02 Mar 2016 03:33:10 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 03:37:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
